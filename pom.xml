@@ -100,8 +100,8 @@
         </license>
     </licenses>
     <issueManagement>
-        <system>jira</system>
-        <url>http://java.net/jira/browse/GLASSFISH</url>
+        <system>GitHub</system>
+        <url>https://github.com/javaee/javax.management.j2ee/issues</url>
     </issueManagement>
     <mailingLists>
         <mailingList>
@@ -110,9 +110,9 @@
         </mailingList>
     </mailingLists>
     <scm>
-        <connection>scm:svn:https://svn.java.net/svn/glassfish~svn/trunk/api/javaee-api/javax.management.j2ee</connection>
-        <developerConnection>scm:svn:https://svn.java.net/svn/glassfish~svn/trunk/api/javaee-api/javax.management.j2ee</developerConnection>
-        <url>http://java.net/projects/glassfish/sources/svn/show/trunk/api/javaee-api/javax.management.j2ee</url>
+        <connection>scm:git:https://github.com/javaee/javax.management.j2ee.git</connection>
+        <developerConnection>scm:git:git@github.com:javaee/javax.management.j2ee.git</developerConnection>
+        <url>https://github.com/javaee/javax.management.j2ee</url>
     </scm>
 
     <build>
